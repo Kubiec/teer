@@ -6,7 +6,7 @@ A simple rust clone of UNIX tee, just for fun. Inspiration taken from O'Reilly b
 
 ## Usage/Examples
 
-```bash
+```
 Copy standard input to each FILE, and also to standard output
 
 Usage: teer [OPTIONS] [FILE]...
